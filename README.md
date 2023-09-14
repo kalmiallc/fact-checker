@@ -1,2 +1,2 @@
-# fact-checker
+# Fact-checker
 Automatic fact-checker.
