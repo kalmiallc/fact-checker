@@ -1,4 +1,4 @@
-# Fact-checker
+# Enterprise Data Verification: An LLMs Fact-Checking Solution
 
 In our work, we propose a multi-module architecture for automatic fact-checking that can be seen in the figure below. Our system consists of different modules that can be used according to the user’s needs. In the following chapter, we will go through different parts of our architecture in detail and present the workings of each module.
 
