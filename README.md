@@ -22,9 +22,9 @@ Implemented system will be open-sourced and easy to use by providing its Docker 
 
 ## A multi-module architecture for automatic fact-checking:
 
-
-
-
+<p align="center">
+  <img src="assets/fact-checker.jpg"/>
+</p>
 
 ## References:
 
